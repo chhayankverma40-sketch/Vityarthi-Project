@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which four bases occur in DNA?",
+    "options": {
+      "A": "A,U,C,G",
+      "B": "A,C,G,T",
+      "C": "A,B,C,D",
+      "D": "U,T,G,P"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which DNA base pairs with A?",
+    "options": {
+      "A": "C",
+      "B": "G",
+      "C": "T",
+      "D": "U"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "GC content uses which bases?",
+    "options": {
+      "A": "A,T",
+      "B": "G,C",
+      "C": "A,G",
+      "D": "T,C"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which Python structure is useful for nucleotide counts?",
+    "options": {
+      "A": "Dictionary",
+      "B": "Float",
+      "C": "Boolean",
+      "D": "Comment"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which RNA base corresponds to DNA T during transcription?",
+    "options": {
+      "A": "A",
+      "B": "U",
+      "C": "C",
+      "D": "G"
+    },
+    "answer": "A"
+  }
+]
